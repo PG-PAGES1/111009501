@@ -1,0 +1,139 @@
+
+scatter_light.png
+size: 1758,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sd_vfx_c_add_00
+  rotate: false
+  xy: 2, 370
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_01
+  rotate: false
+  xy: 2, 186
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_02
+  rotate: false
+  xy: 284, 370
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_03
+  rotate: false
+  xy: 2, 2
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_04
+  rotate: false
+  xy: 284, 186
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_05
+  rotate: false
+  xy: 566, 370
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_06
+  rotate: false
+  xy: 284, 2
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_07
+  rotate: false
+  xy: 566, 186
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_08
+  rotate: false
+  xy: 848, 370
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_09
+  rotate: false
+  xy: 566, 2
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_10
+  rotate: false
+  xy: 848, 186
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_11
+  rotate: false
+  xy: 1130, 370
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_12
+  rotate: false
+  xy: 848, 2
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_13
+  rotate: false
+  xy: 1130, 186
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_14
+  rotate: false
+  xy: 1412, 370
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_15
+  rotate: false
+  xy: 1130, 2
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_16
+  rotate: false
+  xy: 1412, 186
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_c_add_17
+  rotate: false
+  xy: 1412, 2
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+sd_vfx_d_add
+  rotate: true
+  xy: 1694, 275
+  size: 277, 62
+  orig: 277, 62
+  offset: 0, 0
+  index: -1

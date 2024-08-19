@@ -1,0 +1,132 @@
+
+scatter_glow.png
+size: 1694,734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scatter_vfx_b_add_00
+  rotate: false
+  xy: 2, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_01
+  rotate: false
+  xy: 190, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_02
+  rotate: false
+  xy: 190, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_03
+  rotate: false
+  xy: 378, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_04
+  rotate: false
+  xy: 378, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_05
+  rotate: false
+  xy: 566, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_06
+  rotate: false
+  xy: 566, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_07
+  rotate: false
+  xy: 754, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_08
+  rotate: false
+  xy: 754, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_09
+  rotate: false
+  xy: 942, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_10
+  rotate: false
+  xy: 942, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_11
+  rotate: false
+  xy: 1130, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_12
+  rotate: false
+  xy: 1130, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_13
+  rotate: false
+  xy: 1318, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_14
+  rotate: false
+  xy: 1318, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_15
+  rotate: false
+  xy: 1506, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_16
+  rotate: false
+  xy: 1506, 2
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1
+scatter_vfx_b_add_17
+  rotate: false
+  xy: 2, 368
+  size: 186, 364
+  orig: 186, 364
+  offset: 0, 0
+  index: -1

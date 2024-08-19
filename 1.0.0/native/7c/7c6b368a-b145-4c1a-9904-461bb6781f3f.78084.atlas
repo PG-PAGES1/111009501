@@ -1,0 +1,139 @@
+
+speed_glow_gold.jpg
+size: 1045,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fang
+  rotate: false
+  xy: 839, 174
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+fs_vfx_a_add_00
+  rotate: true
+  xy: 2, 151
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_01
+  rotate: false
+  xy: 449, 694
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_02
+  rotate: true
+  xy: 2, 2
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_03
+  rotate: false
+  xy: 449, 304
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_04
+  rotate: false
+  xy: 2, 692
+  size: 147, 390
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_05
+  rotate: false
+  xy: 2, 300
+  size: 147, 390
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_06
+  rotate: false
+  xy: 151, 692
+  size: 147, 390
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_07
+  rotate: false
+  xy: 151, 300
+  size: 147, 390
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_08
+  rotate: false
+  xy: 598, 694
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_09
+  rotate: false
+  xy: 598, 304
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_10
+  rotate: false
+  xy: 747, 694
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_11
+  rotate: false
+  xy: 747, 304
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_12
+  rotate: false
+  xy: 300, 692
+  size: 147, 390
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_13
+  rotate: false
+  xy: 300, 300
+  size: 147, 390
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_14
+  rotate: false
+  xy: 896, 694
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_15
+  rotate: false
+  xy: 896, 304
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_16
+  rotate: true
+  xy: 449, 155
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1
+fs_vfx_a_add_17
+  rotate: true
+  xy: 392, 6
+  size: 147, 388
+  orig: 147, 398
+  offset: 0, 6
+  index: -1

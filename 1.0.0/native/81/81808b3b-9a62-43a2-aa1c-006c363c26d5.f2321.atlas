@@ -1,0 +1,13 @@
+
+freestart_roll.png
+size: 141,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_vfx_j_screen
+  rotate: false
+  xy: 2, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+freestartbtn.png
+size: 367,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mhover_start_vfx_a_add
+  rotate: false
+  xy: 2, 2
+  size: 363, 173
+  orig: 363, 173
+  offset: 0, 0
+  index: -1

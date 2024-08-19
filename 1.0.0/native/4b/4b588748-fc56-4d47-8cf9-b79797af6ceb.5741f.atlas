@@ -1,0 +1,266 @@
+
+speed_glow_blue.jpg
+size: 786,940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ss_a_add_01_00
+  rotate: true
+  xy: 1, 837
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_01
+  rotate: true
+  xy: 391, 837
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_02
+  rotate: true
+  xy: 1, 733
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_03
+  rotate: true
+  xy: 391, 733
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_04
+  rotate: true
+  xy: 1, 629
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_05
+  rotate: true
+  xy: 391, 629
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_06
+  rotate: true
+  xy: 391, 107
+  size: 104, 392
+  orig: 450, 412
+  offset: 2, 14
+  index: -1
+ss_a_add_01_07
+  rotate: true
+  xy: 1, 1
+  size: 104, 392
+  orig: 450, 412
+  offset: 2, 14
+  index: -1
+ss_a_add_01_08
+  rotate: true
+  xy: 395, 1
+  size: 104, 390
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_09
+  rotate: true
+  xy: 1, 525
+  size: 102, 386
+  orig: 450, 412
+  offset: 2, 16
+  index: -1
+ss_a_add_01_10
+  rotate: true
+  xy: 389, 525
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_11
+  rotate: true
+  xy: 1, 421
+  size: 102, 388
+  orig: 450, 412
+  offset: 1, 15
+  index: -1
+ss_a_add_01_12
+  rotate: true
+  xy: 391, 421
+  size: 102, 388
+  orig: 450, 412
+  offset: 1, 15
+  index: -1
+ss_a_add_01_13
+  rotate: true
+  xy: 1, 317
+  size: 102, 388
+  orig: 450, 412
+  offset: 1, 15
+  index: -1
+ss_a_add_01_14
+  rotate: true
+  xy: 391, 317
+  size: 102, 388
+  orig: 450, 412
+  offset: 1, 15
+  index: -1
+ss_a_add_01_15
+  rotate: true
+  xy: 1, 213
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_16
+  rotate: true
+  xy: 391, 213
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+ss_a_add_01_17
+  rotate: true
+  xy: 1, 109
+  size: 102, 388
+  orig: 450, 412
+  offset: 2, 15
+  index: -1
+
+
+speed_glow_blue.png
+size: 654,1202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ss_b_normal_01_00
+  rotate: false
+  xy: 1, 401
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_01
+  rotate: false
+  xy: 110, 803
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_02
+  rotate: false
+  xy: 1, 1
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_03
+  rotate: false
+  xy: 110, 403
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_04
+  rotate: false
+  xy: 219, 803
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_05
+  rotate: false
+  xy: 110, 3
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_06
+  rotate: false
+  xy: 1, 801
+  size: 107, 400
+  orig: 450, 412
+  offset: 0, 6
+  index: -1
+ss_b_normal_01_07
+  rotate: false
+  xy: 219, 403
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_08
+  rotate: false
+  xy: 328, 803
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_09
+  rotate: false
+  xy: 437, 5
+  size: 107, 396
+  orig: 450, 412
+  offset: 0, 8
+  index: -1
+ss_b_normal_01_10
+  rotate: false
+  xy: 546, 8
+  size: 107, 395
+  orig: 450, 412
+  offset: 0, 9
+  index: -1
+ss_b_normal_01_11
+  rotate: false
+  xy: 546, 405
+  size: 107, 396
+  orig: 450, 412
+  offset: 0, 8
+  index: -1
+ss_b_normal_01_12
+  rotate: false
+  xy: 219, 3
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_13
+  rotate: false
+  xy: 328, 403
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_14
+  rotate: false
+  xy: 437, 803
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_15
+  rotate: false
+  xy: 328, 3
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_16
+  rotate: false
+  xy: 437, 403
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+ss_b_normal_01_17
+  rotate: false
+  xy: 546, 803
+  size: 107, 398
+  orig: 450, 412
+  offset: 0, 7
+  index: -1
+

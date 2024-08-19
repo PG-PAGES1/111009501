@@ -1,0 +1,258 @@
+
+bg_light.jpg
+size: 1406,1384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ab_main_vfx_a_add_00
+  rotate: false
+  xy: 2, 922
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_01
+  rotate: false
+  xy: 236, 1154
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_02
+  rotate: false
+  xy: 2, 692
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_03
+  rotate: false
+  xy: 236, 924
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_04
+  rotate: false
+  xy: 470, 1154
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_05
+  rotate: false
+  xy: 2, 462
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_06
+  rotate: false
+  xy: 2, 1152
+  size: 232, 230
+  orig: 240, 240
+  offset: 4, 4
+  index: -1
+ab_main_vfx_a_add_07
+  rotate: false
+  xy: 236, 694
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_08
+  rotate: false
+  xy: 470, 924
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_09
+  rotate: false
+  xy: 704, 1154
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_10
+  rotate: false
+  xy: 2, 232
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_11
+  rotate: false
+  xy: 236, 464
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 6
+  index: -1
+ab_main_vfx_a_add_12
+  rotate: false
+  xy: 470, 694
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_13
+  rotate: false
+  xy: 704, 924
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_14
+  rotate: false
+  xy: 938, 1154
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_15
+  rotate: false
+  xy: 470, 234
+  size: 230, 228
+  orig: 240, 240
+  offset: 5, 5
+  index: -1
+ab_main_vfx_a_add_16
+  rotate: false
+  xy: 704, 464
+  size: 230, 228
+  orig: 240, 240
+  offset: 5, 5
+  index: -1
+ab_main_vfx_a_add_17
+  rotate: false
+  xy: 1170, 694
+  size: 228, 228
+  orig: 240, 240
+  offset: 7, 5
+  index: -1
+ab_main_vfx_a_add_18
+  rotate: false
+  xy: 702, 4
+  size: 228, 228
+  orig: 240, 240
+  offset: 7, 6
+  index: -1
+ab_main_vfx_a_add_19
+  rotate: false
+  xy: 934, 236
+  size: 230, 226
+  orig: 240, 240
+  offset: 5, 7
+  index: -1
+ab_main_vfx_a_add_20
+  rotate: false
+  xy: 1168, 466
+  size: 230, 226
+  orig: 240, 240
+  offset: 5, 8
+  index: -1
+ab_main_vfx_a_add_21
+  rotate: false
+  xy: 934, 8
+  size: 230, 226
+  orig: 240, 240
+  offset: 5, 8
+  index: -1
+ab_main_vfx_a_add_22
+  rotate: true
+  xy: 1166, 232
+  size: 230, 226
+  orig: 240, 240
+  offset: 5, 8
+  index: -1
+ab_main_vfx_a_add_23
+  rotate: false
+  xy: 1166, 4
+  size: 230, 226
+  orig: 240, 240
+  offset: 5, 8
+  index: -1
+ab_main_vfx_a_add_24
+  rotate: false
+  xy: 938, 694
+  size: 230, 228
+  orig: 240, 240
+  offset: 5, 6
+  index: -1
+ab_main_vfx_a_add_25
+  rotate: false
+  xy: 1172, 924
+  size: 230, 228
+  orig: 240, 240
+  offset: 5, 5
+  index: -1
+ab_main_vfx_a_add_26
+  rotate: false
+  xy: 470, 4
+  size: 230, 228
+  orig: 240, 240
+  offset: 5, 5
+  index: -1
+ab_main_vfx_a_add_27
+  rotate: false
+  xy: 702, 234
+  size: 230, 228
+  orig: 240, 240
+  offset: 5, 5
+  index: -1
+ab_main_vfx_a_add_28
+  rotate: false
+  xy: 936, 464
+  size: 230, 228
+  orig: 240, 240
+  offset: 5, 5
+  index: -1
+ab_main_vfx_a_add_29
+  rotate: false
+  xy: 2, 2
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_30
+  rotate: false
+  xy: 236, 234
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_31
+  rotate: false
+  xy: 470, 464
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_32
+  rotate: false
+  xy: 704, 694
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_33
+  rotate: false
+  xy: 938, 924
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_34
+  rotate: false
+  xy: 1172, 1154
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1
+ab_main_vfx_a_add_35
+  rotate: false
+  xy: 236, 4
+  size: 232, 228
+  orig: 240, 240
+  offset: 4, 5
+  index: -1

@@ -1,0 +1,13 @@
+
+freemultiple_glow.jpg
+size: 244,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 240, 235
+  orig: 240, 235
+  offset: 0, 0
+  index: -1
